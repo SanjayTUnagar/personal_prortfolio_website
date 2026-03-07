@@ -1,0 +1,51 @@
+[
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/Google-Scholarship-India-Badge.png' alt='Udacity | Google India Scholarship'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Udacity | Google India Scholarship"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/insta-two.png' alt='INSTA Award'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "INSTA Award"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/special-incentive.PNG' alt='Special Incentive Award'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Special Incentive Award"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/insta-one.png' alt='INSTA Award'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "INSTA Award"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/xpo.png' alt='Won XPO Logistics Hackathon'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Won XPO Logistics Hackathon"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/dashboard.png' alt='Won Dashboard Hackathon'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "Won Dashboard Hackathon"
+    },
+    {
+        "postHeadingLeft" : "",
+        "postHeadingRight" : "",
+        "postBody" : "<img class='img-responsive' src='img/hackathon-1.png' alt='Won Dashboard Hackathon'><img class='img-responsive' src='img/hackathon-2.png' alt='Won Dashboard Hackathon'>",
+        "postFooterLeft" : "",
+        "postFooterRight" : "INFOSYS"
+    }
+]

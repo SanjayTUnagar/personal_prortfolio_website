@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa fa-home",
+    "menu": "Home"
+  },
+  {
+    "icon": "fa fa-star",
+    "menu": "Experience"
+  },
+  {
+    "icon": "fa fa-laptop",
+    "menu": "Projects"
+  },
+  {
+    "icon": "fa fa-website",
+    "menu": "Social Media Post"
+  },
+  {
+    "icon": "fa fa-book",
+    "menu": "Education"
+  }
+]

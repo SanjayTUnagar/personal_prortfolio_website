@@ -1,1 +1,3 @@
-# personal_prortfolio_website
+# Udacity | Google India Scholarship - Project Challenge 1
+
+Demo: https://sunnypuri.github.io/portfolio/
