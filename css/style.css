@@ -97,7 +97,7 @@ a {
 /* Background Cover */
 
 .background-cover {
-  height: 240px;
+  height: 260px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -216,7 +216,17 @@ a {
   }
 
   a.profile-image img {
-    margin: -20px 0 5px;
+    margin: 90px 0 5px;
+  }
+  .background-cover {
+    height: 200px !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff;
+    background-image: url(../img/cover-banner.png);
+    position: relative;
+    transition: all 0.3s ease-in-out;
   }
 }
 
@@ -393,6 +403,7 @@ a.connect.active {
   margin: 0 -16px 0;
   border-left: 3px solid #4dd0e1;
   padding: 0 12px;
+  font-weight: 600;
 }
 
 .box-body {
