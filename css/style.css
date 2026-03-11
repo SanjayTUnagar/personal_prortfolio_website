@@ -97,7 +97,7 @@ a {
 /* Background Cover */
 
 .background-cover {
-  height: 260px;
+  height: 315px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -284,23 +284,23 @@ a.connect {
   font-size: 14px;
   font-weight: 600;
   line-height: normal;
-  background: #e0f7fa;
-  color: #00bcd4;
+  background: #0a66c2;
+  color: #ffffff;
   text-decoration: none;
-  border: 1px solid #80deea;
+  border: 1px solid #0a66c2;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
 }
 
 a.connect:hover {
-  background: rgba(0, 188, 212, 0.43);
-  color: #fff;
+  background: transparent;
+  color: #000000;
 }
 
 a.connect.active {
-  background: rgba(0, 188, 212, 0.43);
-  color: #fff;
+  background: transparent;
+  color: #000000;
 }
 
 .connect-section {
@@ -352,7 +352,7 @@ a.connect.active {
 }
 
 .social:hover {
-  background-color: #ccc;
+  background-color: #0a66c2;
   color: #fff;
 }
 
@@ -401,9 +401,10 @@ a.connect.active {
   position: relative;
   margin-bottom: 10px;
   margin: 0 -16px 0;
-  border-left: 3px solid #4dd0e1;
+  border-left: 3px solid #0a66c2;
   padding: 0 12px;
   font-weight: 600;
+  color: #0a66c2;
 }
 
 .box-body {
@@ -567,12 +568,12 @@ a.connect.active {
 }
 
 .menu-item:hover {
-  border-bottom: 3px solid #4dd0e1;
+  border-bottom: 3px solid #0a66c2;
 }
 
 .menu-item.active {
-  border-bottom: 3px solid #4dd0e1;
-  color: #4dd0e1;
+  border-bottom: 3px solid #0a66c2;
+  color: #0a66c2;
 }
 
 .post-container {
@@ -590,7 +591,7 @@ a.connect.active {
   position: relative;
   margin-bottom: 10px;
   margin: 0 -16px 0;
-  border-left: 3px solid #4dd0e1;
+  border-left: 3px solid #0a66c2;
   padding: 0 12px;
   display: -webkit-box;
   display: -webkit-flex;
@@ -624,6 +625,7 @@ a.connect.active {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
+  color: #0a66c2;
 }
 
 .post-container .post-footer {
