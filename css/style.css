@@ -785,6 +785,11 @@ a.connect.active {
   .hidden-xs {
     display: none !important;
   }
+  .smp-main img {
+    width: 45% !important;
+    border: 3px solid #cccccc;
+    margin: 9px;
+  }
 }
 
 .tabcontent {
