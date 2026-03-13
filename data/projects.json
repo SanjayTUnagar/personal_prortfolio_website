@@ -83,5 +83,12 @@
     "postBody": "<p><strong>Award Winning Dental Practice</strong></p><p>Family dental practice in Blackwood - serving Cardiff, Newport and all of South Wales - delivering routine and advanced dental care to the highest standards.</p><br><img class='img-responsive' src='img/laffandentalcare.png' alt='Laffan Dental Care'>",
     "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://www.laffandentalcare.com/' target='_blank'>https://www.laffandentalcare.com/</a>",
     "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
+  },
+  {
+    "postHeadingLeft": "Ashlow Orthodontic Practice",
+    "postHeadingRight": "Dental Website - UK",
+    "postBody": "<p>Have you been looking for orthodontic treatment to help you straighten your teeth? At Ashlow Orthodontics in Stoke on Trent we believe in making our patients feel at home when they visit our practice. We offer metal braces, ceramic (clear braces), lingual braces and Invisalign braces. </p><br><img class='img-responsive' src='img/ashloworthodontics.png' alt='Ashlow Orthodontic Practice'>",
+    "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://www.ashloworthodontics.co.uk/' target='_blank'>https://www.ashloworthodontics.co.uk/</a>",
+    "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
   }
 ]
