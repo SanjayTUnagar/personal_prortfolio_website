@@ -69,5 +69,19 @@
     "postBody": "<p>At Bere Regis Dental Practice, we can help you achieve your perfect smile. Whether you need minor cosmetic adjustments or a complete smile makeover, we're here to help you achieve your dental goals.</p><br><img class='img-responsive' src='img/bereregisdental.png' alt='Bere Regis Dental Practice'>",
     "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://bereregisdental.co.uk/' target='_blank'>https://bereregisdental.co.uk/</a>",
     "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
+  },
+  {
+    "postHeadingLeft": "Leeds City Dentalcare",
+    "postHeadingRight": "Dental Website - UK",
+    "postBody": "<p>Leeds City Dentalcare has been caring for our patients in Leeds, Yorkshire & far beyond for over 100 years.</p><p>Over those years we have built an enviable reputation for being at the forefront of dental innovation, bringing the latest & most exciting new dental techniques to our patients. We operate from a beautiful detached building here in South Leeds which is bristling with the latest dental technology.</p><br><img class='img-responsive' src='img/leedscitydentalcare.png' alt='Leeds City Dentalcare'>",
+    "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://www.leedscitydentalcare.co.uk/' target='_blank'>https://www.leedscitydentalcare.co.uk/</a>",
+    "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
+  },
+  {
+    "postHeadingLeft": "Laffan Dental Care",
+    "postHeadingRight": "Dental Website - UK",
+    "postBody": "<p><strong>Award Winning Dental Practice</strong></p><p>Family dental practice in Blackwood - serving Cardiff, Newport and all of South Wales - delivering routine and advanced dental care to the highest standards.</p><br><img class='img-responsive' src='img/laffandentalcare.png' alt='Laffan Dental Care'>",
+    "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://www.laffandentalcare.com/' target='_blank'>https://www.laffandentalcare.com/</a>",
+    "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
   }
 ]
