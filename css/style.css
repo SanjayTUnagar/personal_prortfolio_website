@@ -780,15 +780,30 @@ a.connect.active {
     float: left;
   }
 }
+@media only screen and (max-width: 375px) {
+  .smp-main img {
+    width: 30% !important;
+    border: 3px solid #cccccc;
+    margin: 9px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .smp-main img {
+    width: 40% !important;
+    border: 3px solid #cccccc;
+    margin: 9px;
+  }
+}
 
 @media only screen and (max-width: 767px) {
   .hidden-xs {
     display: none !important;
   }
   .smp-main img {
-    width: 45% !important;
+    width: 99% !important;
     border: 3px solid #cccccc;
-    margin: 9px;
+    margin: 0 10px 10px 0;
   }
 }
 
@@ -800,3 +815,5 @@ a.connect.active {
   border: 3px solid #cccccc;
   margin: 9px;
 }
+
+/*SMP section*/
