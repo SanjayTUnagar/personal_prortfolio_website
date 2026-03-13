@@ -62,5 +62,12 @@
     "postBody": "<p>People have asked Dr. Andrew and Dr. May what the reason is for naming their dental clinic Skye Dental. They have long had an affiliation with Skye, the Isle of Skye in Scotland. Ever since their undergraduate student days at The University of Glasgow, all the way to present day, they have had admiration for and a strong connection to this beautiful island off the West coast of mainland Scotland. </p><p>To summarize, the Isle of Skye is the epitome of beauty and Skye Dental aims to create beautiful smiles in a beautiful setting.</p><br><img class='img-responsive' src='img/skyedental-promo.png' alt='Skye Dental'>",
     "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://www.skyedental.sg/' target='_blank'>https://www.skyedental.sg/</a>",
     "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
+  },
+  {
+    "postHeadingLeft": "Bere Regis Dental Practice",
+    "postHeadingRight": "Dental Website - UK",
+    "postBody": "<p>At Bere Regis Dental Practice, we can help you achieve your perfect smile. Whether you need minor cosmetic adjustments or a complete smile makeover, we're here to help you achieve your dental goals.</p><br><img class='img-responsive' src='img/bereregisdental.png' alt='Bere Regis Dental Practice'>",
+    "postFooterLeft": "<i class='fa fa-hand-o-right'></i> <a href='https://bereregisdental.co.uk/' target='_blank'>https://bereregisdental.co.uk/</a>",
+    "postFooterRight": "HTML5, CSS3, Javascript, PHP, Bootstrap v5.0.2"
   }
 ]
